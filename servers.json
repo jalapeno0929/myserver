@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "My Local Docker",
-      "address": "http://jalapeno-v1.onrender.com"
+      "address": "http://192.168.0.205:6969"
     }
   ]
 }
